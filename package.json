@@ -1,0 +1,19 @@
+{
+  "name": "js-image-processing",
+  "version": "1.0.0",
+  "description": "Javascript image processing",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 3000 --cors"
+  },
+  "author": "Maxim Tolochko",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "systemjs": "^0.19.24",
+    "traceur": "0.0.104"
+  },
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
